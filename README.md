@@ -1,3 +1,5 @@
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
+
 # React Review Day
 
 Today is a day for you to reflect on and review the unit. First, take a minute and assess where you're at with React. Do you feel comfortable with the basic fundamentals? Or do you feel like you could apply your knowledge to another activity?
@@ -38,4 +40,4 @@ By 10:30 AM, DM the instructional team with a one-paragraph assessment of how yo
 
 If you want to work in a small group, you can. Just let the instructional team know and we can put you in a breakout room together. Otherwise, you can disconnect from Zoom. The instructional team is here to help if you have personalized ideas or get stuck today. Slack us and we'll be there to help!
 
-By 4:00 PM EST, turn in what you've been working on as an issue to this repository. Include another paragraph with what you've learned today. We'll grade it as a homework, so make sure you're working on something.
+By 4:00 PM, turn in what you've been working on as an issue to this repository. Include another paragraph with what you've learned today. We'll grade it as a homework, so make sure you're working on something.
