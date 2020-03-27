@@ -10,7 +10,7 @@ It may be useful to check out Bloom's Taxonomy to self-reflect and assess.
 
 Here are some options for what you could do today.
 
-## If you're still uncomfortable with the fundamentals
+## If you're uncomfortable with the fundamentals
 
 * [Here](https://git.generalassemb.ly/ga-wdi-lessons/react-fundamentals-review) is a review packet with mini-lessons on the React unit. There's also a very scaffolded lab included.
 
