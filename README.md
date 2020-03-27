@@ -38,6 +38,6 @@ Here are some options for what you could do today.
 
 By 10:30 AM, DM the instructional team with a one-paragraph assessment of how you feel about React and a plan for what you will work on today.
 
-If you want to work in a small group, you can. Just let the instructional team know and we can put you in a breakout room together. Otherwise, you can disconnect from Zoom. The instructional team is here to help if you have personalized ideas or get stuck today. Slack us and we'll be there to help!
+We'll be working independently today, so you can disconnect from Zoom. The instructional team is here to help if you have personalized ideas or get stuck today. Slack us and we'll be there to help!
 
 By 4:00 PM, turn in what you've been working on as an issue to this repository. Include another paragraph with what you've learned today. We'll grade it as a homework, so make sure you're working on something.
