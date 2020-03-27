@@ -16,6 +16,10 @@ Here are some options for what you could do today.
 
 * [Here](https://git.generalassemb.ly/ga-wdi-exercises/react-shopping-cart) is another lab on building a shopping cart with React.
 
+* [Here's](https://git.generalassemb.ly/sei-nyc-supernovas/react-router-lab-stocks) a lab for practicing with React Router.
+
+* You could add Jest tests to previous homeworks and labs to get more practice with testing. You could also find a design on [Dribbble](https://dribbble.com/) and re-create the components in Storybook.
+
 * Write [sketch notes](https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/) about our React material. Revisit old lessons to do this.
 
 *Challenge*: Use Hooks for any of these assignments.
