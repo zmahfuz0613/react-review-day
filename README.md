@@ -36,7 +36,7 @@ Here are some options for what you could do today.
 
 ## Deliverables
 
-By 10:30 AM, DM the instructional team with a one-paragraph assessment of how you feel about React and a plan for what you will work on today.
+By 10:30 AM, direct message the instructional team with a one-paragraph assessment of how you feel about React and a plan for what you will work on today.
 
 We'll be working independently today, so you can disconnect from Zoom. The instructional team is here to help if you have personalized ideas or get stuck today. Slack us and we'll be there to help!
 
