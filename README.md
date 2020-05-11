@@ -38,6 +38,8 @@ Here are some options for what you could do today.
 
 By 10:30 AM, direct message the instructional team with a one-paragraph assessment of how you feel about React and a plan for what you will work on today.
 
-We'll be working independently today, so you can disconnect from Zoom. The instructional team is here to help if you have personalized ideas or get stuck today. Slack us and we'll be there to help!
+We'll be working mostly independently today, so you can disconnect from Zoom. The instructional team is here to help if you have personalized ideas or get stuck today. Slack us and we'll be there to help!
+
+If you have any ideas of things you want to review that may help the class as a whole, put those ideas in the classroom slack channel. Emoji react to the ones that you would like to see too! We'll slack out a schedule shortly for group activities throughout the day.
 
 By 4:00 PM, turn in what you've been working on as an issue to this repository. Include another paragraph with what you've learned today. We'll grade it as a homework, so make sure you're working on something.
