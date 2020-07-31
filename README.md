@@ -28,8 +28,6 @@ npm i react-dom@latest
 
 * Write [sketch notes](https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/) about our React material. Revisit old lessons to do this.
 
-*Challenge*: Use Hooks for any of these assignments.
-
 ## If you are looking for a challenge
 
 * Teach yourself something new within React and then build something with your new skill. Some great options would be [Jest](https://git.generalassemb.ly/sei-nyc-bees/testing-in-react-with-jest-enzyme), [Storybook](https://git.generalassemb.ly/sei-nyc-bees/react-component-library), [Redux](https://git.generalassemb.ly/sei-nyc-supernovas/react-redux), [React Native](https://git.generalassemb.ly/ga-wdi-lessons/react-native-intro), [GraphQL](https://www.youtube.com/watch?v=yoaZnAB9_yk), or [Gatsby](https://www.gatsbyjs.org/docs/).
