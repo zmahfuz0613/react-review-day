@@ -12,15 +12,19 @@ Here are some options for what you could do today.
 
 ## If you're uncomfortable with the fundamentals
 
+**Note**: if you want to use hooks for these exercises you'll most likely need to upgrade react:
+
+```
+npm i react@latest
+npm i react-dom@latest
+```
 * [Here](https://git.generalassemb.ly/ga-wdi-lessons/react-fundamentals-review) is a review packet with mini-lessons on the React unit. There's also a very scaffolded lab included.
 
 * [Here](https://git.generalassemb.ly/ga-wdi-exercises/react-tvmaze) is a lab on React with an API.
 
 * [Here](https://git.generalassemb.ly/ga-wdi-exercises/react-shopping-cart) is another lab on building a shopping cart with React.
 
-* [Here's](https://git.generalassemb.ly/sei-nyc-supernovas/react-router-lab-stocks) a lab for practicing with React Router.
-
-* You could add Jest tests to previous homeworks and labs to get more practice with testing. You could also find a design on [Dribbble](https://dribbble.com/) and re-create the components in Storybook.
+* [Here's](https://git.generalassemb.ly/sei-nyc-bees/react-router-lab-stocks) a lab for practicing with React Router.
 
 * Write [sketch notes](https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/) about our React material. Revisit old lessons to do this.
 
@@ -28,7 +32,7 @@ Here are some options for what you could do today.
 
 ## If you are looking for a challenge
 
-* Teach yourself something new within React and then build something with your new skill. Some great options would be [Redux](https://git.generalassemb.ly/sei-nyc-supernovas/react-redux), [React Native](https://git.generalassemb.ly/ga-wdi-lessons/react-native-intro), [GraphQL](https://www.youtube.com/watch?v=yoaZnAB9_yk), or [Gatsby](https://www.gatsbyjs.org/docs/).
+* Teach yourself something new within React and then build something with your new skill. Some great options would be [Jest](https://git.generalassemb.ly/sei-nyc-bees/testing-in-react-with-jest-enzyme), [Storybook](https://git.generalassemb.ly/sei-nyc-bees/react-component-library), [Redux](https://git.generalassemb.ly/sei-nyc-supernovas/react-redux), [React Native](https://git.generalassemb.ly/ga-wdi-lessons/react-native-intro), [GraphQL](https://www.youtube.com/watch?v=yoaZnAB9_yk), or [Gatsby](https://www.gatsbyjs.org/docs/).
 
 * Write a blog post on something you learned this unit. Hint: Storybook or styling in React would be a 🔥 topic. Show the world your knowledge -- it'll be awesome for your career. You could also make a YouTube video teaching a concept.
 
@@ -36,7 +40,7 @@ Here are some options for what you could do today.
 
 ## Deliverables
 
-By 10:30 AM, direct message the instructional team with a one-paragraph assessment of how you feel about React and a plan for what you will work on today.
+By 11:00 AM, direct message the instructional team with a one-paragraph assessment of how you feel about React and a plan for what you will work on today.
 
 We'll be working mostly independently today, so you can disconnect from Zoom. The instructional team is here to help if you have personalized ideas or get stuck today. Slack us and we'll be there to help!
 
